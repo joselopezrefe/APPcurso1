@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/fondo9.jpg");
+    background-repeat: no-repeat;
+}
+.text {
+    text-transform: rgb(226, 182, 182);
+    color:aquamarine;
+    font-family: sans-serif;
+}
+div.cuerpo{    
+    display: flex;
+    width: auto;
+    height: 300px;
+    margin: 0;
+    padding: 10px;
+    
+}
